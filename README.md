@@ -1,1 +1,1 @@
-this is my first repository created as part of a github learnin task
+this is my first repository created as part of a github learning task
