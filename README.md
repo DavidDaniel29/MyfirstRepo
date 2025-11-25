@@ -1,2 +1,2 @@
-My first Repo
+first repository
 GitHub learning task
